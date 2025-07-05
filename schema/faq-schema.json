@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does Optimum charge for installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Optimum offers free Self-Setup, and if that’s not an option, customers can take advantage of free Pro-Install. However, if Self-Setup is available and the customer opts not to use it, a $100 installation fee will apply."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much is Optimum Internet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Optimum Internet prices begin at $40/month* for 300 Mbps download speed and vary based on your selected plan.\n*For 12 mos. w/ $10 ACH Autopay discount for Internet and/or Video services. In select markets only. View Full Disclaimer."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you get Optimum Internet only?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can get a subscription to standalone Optimum Internet plans."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Optimum place data limits on its internet plans?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, all Optimum Internet plans come with no data caps policy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Altice and Optimum the same?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Altice is a parent company that owns the brand Optimum, one of the largest broadband communication and video service providers in the US."
+      }
+    }
+  ]
+}
